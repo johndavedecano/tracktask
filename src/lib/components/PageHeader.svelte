@@ -6,7 +6,7 @@
   </a>
 </header>
 
-<style>
+<style lang="postcss">
   .page-header {
     @apply min-h-16 flex items-center px-4 absolute w-full top-0 right-0 left-0 border-b border-white/5;
   }

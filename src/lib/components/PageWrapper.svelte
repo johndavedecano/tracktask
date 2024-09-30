@@ -10,7 +10,7 @@
   </div>
 </div>
 
-<style>
+<style lang="postcss">
   .page {
     @apply max-h-screen min-h-screen relative flex flex-col overflow-hidden;
   }

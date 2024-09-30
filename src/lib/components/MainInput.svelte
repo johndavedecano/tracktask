@@ -5,7 +5,7 @@
   <input type="text" />
 </div>
 
-<style>
+<style lang="postcss">
   .input {
     @apply w-full flex p-1.5 bg-white/5 rounded-md gap-4 items-center border border-transparent focus-within:border-white/10;
   }
