@@ -2,6 +2,7 @@
   import MainInput from '../lib/components/MainInput.svelte'
   import PageHeader from '../lib/components/PageHeader.svelte'
   import PageWrapper from '../lib/components/PageWrapper.svelte'
+  import RightModal from '../lib/components/RightModal.svelte'
   import TodoList from '../lib/components/TodoList.svelte'
   import TodoListItem from '../lib/components/TodoListItem.svelte'
 
@@ -21,6 +22,8 @@
     <MainInput />
   </div>
 </PageWrapper>
+
+<RightModal open />
 
 <style lang="postcss">
 </style>
