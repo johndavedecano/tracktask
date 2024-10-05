@@ -6,7 +6,7 @@
 
 <style lang="postcss">
   .create-new {
-    @apply flex w-full max-w-64 items-center text-sm gap-2 px-2 transition-colors bg-gray-100 border-t min-h-16 sticky bottom-0 transition-colors;
+    @apply flex w-full max-w-64 items-center text-sm gap-2 px-2 bg-gray-100 border-t min-h-16 sticky bottom-0 transition-colors;
   }
   .create-new:hover {
     @apply bg-gray-200/50;
